@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sennui Lab</title>
+    <description>Engineering for scale</description>
+    <link>http://www.sennui.com//</link>
+    <atom:link href="http://www.sennui.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 02 Jun 2017 21:20:22 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 21:20:22 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Welcome to Sennui!</title>
+        <description>&lt;p&gt;If you found this page you are probably interested in R&amp;amp;D software projects.&lt;/p&gt;
+
+&lt;p&gt;Please reach out via email regarding current team availability: info [at] sennui.com&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 16:04:23 +0100</pubDate>
+        <link>http://www.sennui.com//2017/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.sennui.com//2017/welcome-to-jekyll/</guid>
+        
+        <category>erlang</category>
+        
+        <category>distributed</category>
+        
+        <category>blockchain</category>
+        
+        <category>chat</category>
+        
+        <category>xmpp</category>
+        
+        <category>mq</category>
+        
+        <category>mqtt</category>
+        
+        <category>parallel</category>
+        
+        <category>99</category>
+        
+        <category>availability</category>
+        
+        <category>cap</category>
+        
+        <category>lmax</category>
+        
+        <category>iot</category>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+  </channel>
+</rss>
